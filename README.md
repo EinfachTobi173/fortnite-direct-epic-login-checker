@@ -1,5 +1,7 @@
 # EpicVM
 
+Dropping this leak hope yall enjoy! licensekeys are in the txt
+
 Thank you for purchasing **EpicVM**.
 
 ## Installation
