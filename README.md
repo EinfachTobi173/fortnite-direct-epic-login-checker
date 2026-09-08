@@ -23,3 +23,7 @@ You can safely add the program folder to your antivirus exclusions if needed.
 ## Support
 
 If you have any questions, join our Telegram channel.
+
+https://api-internal-3.sellauth.com/storage/images/1110507.webp
+https://api-internal-3.sellauth.com/storage/images/1110510.webp
+https://api-internal-3.sellauth.com/storage/images/1110509.webp
