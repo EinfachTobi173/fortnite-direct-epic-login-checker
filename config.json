@@ -1,0 +1,51 @@
+{
+  "app": {
+    "name": "Epic VM",
+    "version": "1.0.0",
+    "debug": false
+  },
+
+  "threads": {
+    "enabled": true,
+    "count": 10,
+    "max_count": 100
+  },
+
+  "proxies": {
+    "enabled": true,
+    "type": "http",
+    "host": "",
+    "port": 0,
+    "username": "",
+    "password": "",
+    "rotate": false,
+    "rotation_interval": 60
+  },
+
+  "captcha": {
+    "enabled": true,
+    "provider": "capsolver",
+    "api_key": "",
+    "key_source": "integrated"
+  },
+
+  "accounts": {
+    "input_file": "combo.txt",
+    "format": "email:password",
+    "max_retries": 3,
+    "timeout": 30
+  },
+
+  "logging": {
+    "enabled": true,
+    "level": "info",
+    "save_to_file": true,
+    "log_file": "logs/app.log"
+  },
+
+  "output": {
+    "save_results": true,
+    "success_file": "results/hits.txt",
+    "failed_file": "results/fails.txt"
+  }
+}
